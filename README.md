@@ -1,5 +1,11 @@
-CLICK HERE TO SEE DEMO:
+## This is my first project, so I decided to start with building something small and useful.
 
-This is my first time to use the Kivy library from Python
-My intention was to learn the design structure of kivy, so I started from building a small calculator
-Still working on packing the whole repo so it can be downloded as a fun app to use
+The main objective of the project was for me to learn the design structure of the Kivy library
+<br />
+<br />
+To design the calculator frame, Kivy GUI used a separated file type (.kv) to separate the design portion and the coding/logic portion. 
+
+* The design framework file: calculatorlayout.kv
+* The calculator logic file: calculatorapp.py
+
+   <img src="screen_shots/cal_1.png" width="400">
