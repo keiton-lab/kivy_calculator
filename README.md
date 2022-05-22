@@ -7,5 +7,15 @@ To design the calculator frame, Kivy GUI used a separated file type (.kv) to sep
 
 * The design framework file: calculatorlayout.kv
 * The calculator logic file: calculatorapp.py
+<img src="screen_shots/cal_1.png" width="400">
+<br />
 
-   <img src="screen_shots/cal_1.png" width="400">
+**HOW TO USE**
+<br />
+<br />
+You only need these two files to make it works:
+<br />
+* calculatorlayout.kv
+* calculatorapp.py
+<br />
+Run " python calculatorapp.py "
