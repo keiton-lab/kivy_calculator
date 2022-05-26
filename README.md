@@ -1,5 +1,5 @@
 ## This is my first project, so I decided to start with building something small and useful.
-
+### UPDATE: Learning how to package this into a complete app that can be downloaded on iOS and Android.
 The main objective of the project was for me to learn the design structure of the Kivy library
 <br />
 <br />
